@@ -16,4 +16,4 @@ Downloaded dataset - https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-
 - Performance visualization (Loss/Accuracy metrics, ROC curve, Precision-Recall, Confision Matrix)
 
 ## Results
-- 86,68 % accuracy on test dataset
+- 95,7 % accuracy on test dataset
