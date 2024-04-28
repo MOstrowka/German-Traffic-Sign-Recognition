@@ -12,8 +12,9 @@ Downloaded dataset - https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-
 
 ## Features
 - Image loading and normalization
-- Deep learning model based on Convolutional Neural Network (with regularization)
+- Deep learning model based on Convolutional Neural Network
 - Performance visualization (Loss/Accuracy metrics, ROC curve, Precision-Recall, Confision Matrix)
 
 ## Results
-- 95,7 % accuracy on test dataset
+- 99,74% accuracy on test dataset
+- 97,8% accuracy on test dataset
